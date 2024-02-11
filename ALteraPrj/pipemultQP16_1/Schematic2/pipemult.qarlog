@@ -1,0 +1,23 @@
+Quartus Prime Archive log --	C:/Users/nicko/Documents/vscode/VHDLTrainer/ALteraPrj/pipemultQP16_1/Schematic2/pipemult.qarlog
+
+Archive:	C:/Users/nicko/Documents/vscode/VHDLTrainer/ALteraPrj/pipemultQP16_1/Schematic2/pipemult.qar
+Date:		Sun Feb 04 21:50:59 2024
+Quartus Prime		16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/nicko/Documents/vscode/VHDLTrainer/ALteraPrj/pipemultQP16_1/Schematic2/mult.bsf
+C:/Users/nicko/Documents/vscode/VHDLTrainer/ALteraPrj/pipemultQP16_1/Schematic2/mult.cmp
+C:/Users/nicko/Documents/vscode/VHDLTrainer/ALteraPrj/pipemultQP16_1/Schematic2/mult.qip
+C:/Users/nicko/Documents/vscode/VHDLTrainer/ALteraPrj/pipemultQP16_1/Schematic2/mult.vhd
+C:/Users/nicko/Documents/vscode/VHDLTrainer/ALteraPrj/pipemultQP16_1/Schematic2/pipemult.bdf
+C:/Users/nicko/Documents/vscode/VHDLTrainer/ALteraPrj/pipemultQP16_1/Schematic2/pipemult.qpf
+C:/Users/nicko/Documents/vscode/VHDLTrainer/ALteraPrj/pipemultQP16_1/Schematic2/pipemult.qsf
+C:/Users/nicko/Documents/vscode/VHDLTrainer/ALteraPrj/pipemultQP16_1/Schematic2/pipemult.sdc
+C:/Users/nicko/Documents/vscode/VHDLTrainer/ALteraPrj/pipemultQP16_1/Schematic2/pipemult2.qsf
+C:/Users/nicko/Documents/vscode/VHDLTrainer/ALteraPrj/pipemultQP16_1/Schematic2/pipemult2.sdc
+C:/Users/nicko/Documents/vscode/VHDLTrainer/ALteraPrj/pipemultQP16_1/Schematic2/ram.vhd
+d:/intelfpga_lite/16.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 12 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
